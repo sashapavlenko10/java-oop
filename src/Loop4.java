@@ -5,7 +5,7 @@ public class Loop4 {
 		/*int i = 9;
 		while(i<20) {
 			++i ;
-		System.out.println(i);}*/
+		System.out.println(i);}
 		int i = 9;
 		while(i<20) {
 			++i ;
