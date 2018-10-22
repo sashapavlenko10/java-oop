@@ -11,7 +11,7 @@ public class Engine {
     }
     
     public double getMileage() {
-        return mileage;
+        return mileage; 
     }
     
     public double getPetrol() {
