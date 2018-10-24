@@ -8,8 +8,8 @@ public class Main {
 	        car.turnOn();
 	            
 	        car.turnOff();
-	             
+	              
 	        System.out.println(car.getName() + ": " + car.getMileage()+"   "+ car.getPetrol());
 	        
 	    }
-	}
+	}  
