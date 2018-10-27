@@ -10,4 +10,4 @@ rectangle.squire(a, b);
 Triangle triangle = new Triangle();
 triangle.squire(a, b);
 }
-}
+} 
