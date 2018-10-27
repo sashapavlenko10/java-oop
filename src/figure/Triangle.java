@@ -1,3 +1,4 @@
+package figure;
 
 public class Triangle extends Figure{
 	void squire(int a, int b) {
